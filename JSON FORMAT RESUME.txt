@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+     var resume = {
+         Name: "yogesh",
+         MobileNumber:9940824012,
+         Objective:"To make use of my interpersonal skills to achieve goals of company that focuses on customer satisfaction and customer experience",
+         Education:"SRINIVASAN COLLEGE OF ARTS AND SCIENCE,PERUMBALUR B.Sc.(COMPUTER SCIENCE)Board/University:BHARATHIDASAN UNIVERSITY HSC&SSLC Sowdambikaa Matriculation Hr., Sec., School, Thuraiyur",
+         Technicalskill:" MICROSOFT WORD,EXCEL,POWER POINT",
+         Personaldetail:"FATHER NAME :ESWAR D ; Date of birth : 31 DEC 2OOO ; Age : 22 ; Gender : male ; blood group : o+ve ; nationality : indian ; language known : marahi,tamil,english ",
+         Declaration:"I hereby declare that the above furnished information is true to the best of my knowledge"
+
+         
+     }
+
+      console.log(resume);
+      console.log(JSON.stringify(resume));
+      
+    </script>
+    
+</body>
+</html>
